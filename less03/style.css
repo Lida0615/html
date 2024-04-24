@@ -1,0 +1,41 @@
+.weekend {
+  color: red;
+  background-color: blanchedalmond;
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+span {
+  text-decoration: underline;
+
+  background-color: #058d35;
+  width: 5000px;
+}
+
+.mond {
+  text-transform: uppercase;
+}
+
+p {
+  background-color: rgb(243, 198, 144);
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+div {
+  border: 3px solid grey;
+  text-align: justify;
+}
+
+.span1 {
+  background-color: chartreuse;
+  font-style: italic;
+}
+
+.sum {
+  font-family: "Courier New", Courier, monospace;
+}
+.ewer {
+  font-style: italic;
+}

@@ -1,0 +1,13 @@
+.parent {
+  height: 500px;
+  background-color: transparent;
+  background-image: url("../1.jpg");
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  /* background-position: 10% 20px; */
+  border: 1px solid #000;
+  /* background-blend-mode: hue; */
+  /* filter:; */
+  background-attachment: fixed;
+  /* background: url() red center; */
+}
